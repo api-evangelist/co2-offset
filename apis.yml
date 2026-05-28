@@ -1,0 +1,32 @@
+aid: co2-offset
+name: CO2 Offset
+description: "API calculates and validates the carbon footprint"
+url: https://co2offset.io/api.html
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Environment"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Environment
+  - Public APIs
+apis:
+  - name: CO2 Offset
+    description: "API calculates and validates the carbon footprint"
+    humanURL: https://co2offset.io/api.html
+    baseURL: https://co2offset.io/api.html
+    tags:
+      - Environment
+    properties:
+      - type: Documentation
+        url: https://co2offset.io/api.html
+common:
+  - type: Website
+    url: https://co2offset.io/api.html
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
