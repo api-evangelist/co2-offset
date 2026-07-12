@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://co2offset.io/api.html
 common:
+  - type: DomainSecurity
+    url: security/co2-offset-domain-security.yml
   - type: Website
     url: https://co2offset.io/api.html
   - type: PublicAPIsListing
