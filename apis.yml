@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://co2offset.io/api.html', status: 302, note: 'declared website redirects to https://corrently.io/books/susscope2-framework-fur-co2-emissionen-strombezug — a different registrable domain (co2offset.io -> corrently.io), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/co2-offset.png
 name: CO2 Offset
 description: "API calculates and validates the carbon footprint"
