@@ -41,7 +41,6 @@ apis:
   - name: CO2 Offset
     description: "API calculates and validates the carbon footprint"
     humanURL: https://co2offset.io/api.html
-    baseURL: https://co2offset.io/api.html
     tags:
       - Environment
     properties:
